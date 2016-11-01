@@ -1,0 +1,1 @@
+My clone of [Notational Velocity](http://notational.net). Mostly a reference implementation for porting it to a modern, web-based platform.
